@@ -19,7 +19,7 @@
   <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/Prolog"><img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" /></a>
+  <a href="https://www.swi-prolog.org/"><img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" /></a>
   <a href="https://smlnj.org/"><img src="https://img.shields.io/badge/StandardML-DC143C?style=for-the-badge" /></a>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
